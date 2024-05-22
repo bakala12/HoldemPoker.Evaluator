@@ -6,4 +6,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>HoldemPoker.Evaluator</PackageId>
+    <Version>0.1</Version>
+    <Authors>Mateusz Bąkała</Authors>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Description>Texas Hold'em Poker hand evaluator. This is C# port of C++ project https://github.com/HenryRLee/PokerHandEvaluator</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
 </Project>
