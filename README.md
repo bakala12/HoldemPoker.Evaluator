@@ -1,11 +1,12 @@
 # HoldemPoker.Evaluator
+[HoldemPoker.Evaluator](https://github.com/bakala12/HoldemPoker.Evaluator)
 
 ## Description
 A port of [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) from C++ to C#.
 The code offers very efficient evaluation of Texas Hold'em Poker hand with 5 to 7 cards.
  
 ## Usage
-Project is written as a .NET 8 class library.
+Project is written as a .NET 8 class library. The code is available on [NuGet](https://www.nuget.org/packages/HoldemPoker.Evaluator/).
 
 Evaluating a hand is possible using [HoldemHandEvaluator](HoldemPoker.Evaluator/HoldemHandEvaluator.cs) class methods. It supports following methods:
 * GetHandRanking - Gets the integer number informing of how good the hand is. The lower the ranking the better the hand is.
