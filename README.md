@@ -34,7 +34,7 @@ Next step is converting this quinary number to a `quinary hash` that will allow 
 Details about creation of `quinary hash` can be found in [original algorithm documentation](https://github.com/HenryRLee/PokerHandEvaluator/blob/develop/Documentation/Algorithm.md#chapter-3-hash-for-a-restricted-quinary) by [HenryRLee](https://github.com/HenryRLee).
 
 ## Testing
-See [unit tests](TexasPoker.Evaluator.Tests)
+See [unit tests](HoldemPoker.Evaluator.Tests)
 
 ## License
 The project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
