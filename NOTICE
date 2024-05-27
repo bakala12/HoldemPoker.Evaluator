@@ -1,0 +1,17 @@
+HoldemPoker.Evaluator
+----------
+
+A port of [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) from C++ to C#.
+The code offers very efficient evaluation of Texas Hold'em Poker hand with 5 to 7 cards. It is developed by Mateusz Bąkała (bakala12@o2.pl)
+Portions of this software are based on the work of the original authors of the C++ code, which was licensed under the Apache License, Version 2.0.
+
+This project makes use of:
+- HoldemPoker.Cards (licensed under the Apache License, Version 2.0)
+
+Attributions:
+- The original code from the C++ project is © HenryRLee and is licensed under the Apache License, Version 2.0.
+- HoldemPoker.Cards code this is © Mateusz Bąkała and licensed under the Apache License, Version 2.0.
+
+Modifications:
+- Ported the code from C++ to C#
+- Include usage of HoldemPoker.Cards package (licensed by Apache License, Version 2.0)
