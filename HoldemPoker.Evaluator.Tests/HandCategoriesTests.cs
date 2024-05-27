@@ -1,3 +1,5 @@
+using HoldemPoker.Cards;
+
 namespace HoldemPoker.Evaluator.Tests;
 
 public class HandCategoriesTests

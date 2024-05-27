@@ -15,6 +15,7 @@
  *  limitations under the License.
  */
 
+using HoldemPoker.Cards;
 using HoldemPoker.Evaluator.Hashtables;
 
 namespace HoldemPoker.Evaluator;

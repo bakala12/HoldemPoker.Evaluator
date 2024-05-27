@@ -1,3 +1,4 @@
+using HoldemPoker.Cards;
 using HoldemPoker.Evaluator.Tests.Utils;
 
 namespace HoldemPoker.Evaluator.Tests;

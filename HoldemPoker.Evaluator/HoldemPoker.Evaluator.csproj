@@ -6,6 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HoldemPoker.Cards" Version="0.0.1" />
+  </ItemGroup>
+
   <PropertyGroup>
     <PackageId>HoldemPoker.Evaluator</PackageId>
     <Version>1.0.0</Version>

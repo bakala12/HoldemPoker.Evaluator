@@ -15,6 +15,8 @@
  *  limitations under the License.
  */
 
+using HoldemPoker.Cards;
+
 namespace HoldemPoker.Evaluator.Helpers;
 
 internal static class FlushHashHelper
